@@ -788,7 +788,8 @@ data["BlackfathomDeeps"] = {
 	AtlasMapFile_AL = {"BlackfathomDeeps", "BlackfathomDeepsEnt"},
 	ContentType = DUNGEON_CONTENT,
 	LoadDifficulty = NORMAL_DIFF,
-	LevelRange = GetForVersion({15, 24, 32}, {19, 22, 24}),
+	LevelRange = GetForVersion({15, 25}, {19, 22, 24}),
+	--LevelRange = GetForVersion({15, 24, 32}, {19, 22, 24}),
 	items = {
 		{ -- BFDGhamoora
 			name = AL["Ghamoo-ra"],
