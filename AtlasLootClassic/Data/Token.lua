@@ -239,6 +239,9 @@ TOKEN_DATA.CLASSIC = {
 				22667, 22668, 22657, 22659, 22678, 22656, type = 4 }, -- Insignia of the Dawn
 	[22524] = 22523, -- Insignia of the Crusade
 
+	-- BFD Raid
+	[209693] = { 211449, 211450, 211451, type = 3 }, -- Perfect Blackfathom Pearl
+	
 	-- Naxxramas
 	[22520] = { 23207, 23206, type = 3 }, -- The Phylactery of Kel'Thuzad
 
