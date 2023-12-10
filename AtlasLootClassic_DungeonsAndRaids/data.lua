@@ -1079,6 +1079,7 @@ data["BlackfathomDeepsRaid"] = {
 				{ 4,  209692 }, -- Sentinel Pauldrons
 				{ 5,  209685 }, -- Ancient Moss Cinch
 				{ 6,  209690 }, -- Shadowscale Coif
+				{ 8,  209693 }, -- Perfect Blackfathom Pearl
 				{ 16, 209691 }, -- Vampiric Boot Knife
 				{ 17, 211456 }, -- Dagger of Willing Sacrifice
 				{ 18, 209688 }, -- Bael Modan Blunderbuss
